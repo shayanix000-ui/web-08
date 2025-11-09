@@ -1,0 +1,55 @@
+body{
+    background-color: deepskyblue;
+}
+.blue-500{
+    color: blue;
+}
+.background{
+    background-image: url(../images/psb.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sih{
+    background-color: aqua;
+    color:rgb(3, 71, 71) ;
+}
+.green-text{
+    color: green;
+}
+#gold{
+    color: gold;
+}
+.w-20{
+    width:20%;
+}
+.border{
+    border-width: 10px;
+    border-color: hsla(120, 31%, 53%, 0.329);
+    border-style: groove;
+}
+.t-blue{
+    color: blue;
+}
+.borderS{
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+}
+.outlineS{
+    outline: 10px;
+    outline-color: red;
+    outline-style: solid;
+}
+.bg-aqua{
+    background-color: aqua;
+}
+.bg-redS{
+    background-color: rgba(165, 37, 37, 0.527);
+}
+.darkred{
+    color:darkred ;
+}
+.gradient{
+    background: linear-gradient(red blue);
+}
+
